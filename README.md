@@ -23,7 +23,9 @@ Why animal can’t produce speech
 
 Why person to person different in voice ?
 - As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
+<img width="603" height="577" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" />
 
+Speaker Identification
 
 
 
