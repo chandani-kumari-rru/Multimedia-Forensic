@@ -14,14 +14,14 @@
 
 
 # Mechanism of Voice Generation
-<img width="838" height="541" alt="image" src="https://github.com/user-attachments/assets/d047bf53-f3e2-4478-ade9-a4397f5dd99a" />
+<img width="838" height="341" alt="image" src="https://github.com/user-attachments/assets/d047bf53-f3e2-4478-ade9-a4397f5dd99a" />
 
 | SEPEAKER | LISTENER |  
 |---|---|  
 | `Production of vibrational energy` by `articulation` after brain instructs to perform | `Eardrums` convert this vibrational energy into signals that travel along nerves to the brain, which `interprets` them as `voices`, `music`, `noise`, etc. |
 
 Production of Speech
-<img width="696" height="745" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" />
+<img width="696" height="445" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" />
 - The basic responsible function for production of speech are: `Generation of air pressure`, `regulation of vibration`, and `control of resonators`.
 - Larynx sometimes called `voice box` is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
 
@@ -35,7 +35,7 @@ Why animal can’t produce speech
 
 Why person to person different in voice ?
 - As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
-<img width="603" height="577" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" />
+<img width="603" height="377" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" />
 
 Speaker Identification
 <p align="center"><img src="img/SpeakerIdentification.png"></p>
@@ -117,7 +117,7 @@ Audio Authentication
 |Sampling Rate|8000 Hz|23000 Hz or more|
 |Background Noise|Low|High|
 |Metadata/Hex|[md5](https://md5file.com/calculator)||
-<img width="1369" height="1006" alt="image" src="https://github.com/user-attachments/assets/c964587d-ffbd-41a2-a85b-f6156151df97" />
+<img width="1369" height="506" alt="image" src="https://github.com/user-attachments/assets/c964587d-ffbd-41a2-a85b-f6156151df97" />
 
 `Waveform Analysis`
 - Visual comparison to spot discontinuities, sharp cuts, or faces that don’t match up.
