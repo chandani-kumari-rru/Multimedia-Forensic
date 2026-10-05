@@ -25,7 +25,7 @@
     - [Visual Inspection](#Visual-Inspection)
     - [Analyzing Metadata](#Analyzing-Metadata)
   - [Audio Evidence in Investigation Laboratory](#Audio-Evidence-in-Investigation-Laboratory)
-  - [Speaker Recognition](#speaker-recognition/identification)
+  - [Speaker Recognition](#speaker-identification/recognition)
   - [Method of Speaker Identification](#methods-of-speaker-identification)
 - [Video Forensic](#video-forensic)
 ---
