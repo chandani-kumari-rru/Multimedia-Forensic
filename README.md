@@ -1,4 +1,5 @@
-[Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
+# Multimedia Forenisc
+- in multimedia forensic covers `Audio`, `Video`, `Image`, `Text`.
 
 ## 📑 Table of Contents
 
@@ -10,7 +11,13 @@
   - [Audio Examination Tools](#audio-examination-tools)
   - [Challenge in Audio Processing](#challenge-in-audio-processing)
   - [Analysing Audio as a Investigator](#analysing-audio-as-a-investigator)
-    - [Audio Authentication](#audio-authentication)
+    - [Authentication](#audio-authentication)
+    - [Enhancement](#Enhancement)
+    - [Interpretation](#Interpretation)
+    - [Critical Listening](#Critical-Listening)
+    - [Visual Inspection](#Visual-Inspection)
+    - [Analyzing Metadata](#Analyzing-Metadata)
+  -[Audio Evidence in Investigation](#Audio-Evidence-in-Investigation)
 - [Video Forensic](#video-forensic)
 ---
 
@@ -124,6 +131,35 @@ Problems in Forensic speaker examination
 - Analyzing Metadata
 
 ### Audio Authentication
+- The primary step in the analysis of an audio recording is to establish the authenticity of the recording. The forensic examiner verifies whether any alterations, such as additions, substitutions, or deletions, have been made to the recording.
+<img width="560" height="191" alt="image" src="https://github.com/user-attachments/assets/0416d5eb-579f-481f-8c6e-9d543c18c17f" />
+
+### Enhancement
+- The quality of the audio evidence is not always good. Many times it is really difficult to recognize the speech in the recording due to the background noise and to resolve this issue, to understand what is being said, the enhancement of the audio recording is done.
+
+### Interpretation
+- After authentication and enhancement, the evaluation of the audio recording is done in order to understand and interpret the relevance of the audio to the investigation. It includes recognition of the speech (`speech recognition`), recognition of the speaker (`speaker identification`), and interpretation of background noise that can indicate the environment in which the audio was recorded
+
+### Critical Listening
+- If an edit is discovered during the critical listening phase, they are usually in the form of abrupt changes. Detecting these changes is not easy and comes with experience.
+- Critical listening must be the first step to become familiar with the audio evidence.
+
+### Visual Inspection
+- Visually inspecting the audio wave form and spectrogram is the next step in authenticating the audio. This goes hand in hand with the electronic measurement as the forensic expert analyzes the physical wave properties and frequency information.
+<img width="1047" height="342" alt="image" src="https://github.com/user-attachments/assets/ccdba13a-48bb-4fa3-8fe7-6af7f61f2989" />
+
+### Analyzing Metadata
+- Digital audio recordings contain metadata which reveals information about how the recording was made and the type of equipment that created the recording.
+<img width="1466" height="417" alt="image" src="https://github.com/user-attachments/assets/1418c9bb-00e0-42d2-8d1d-b65e3f15b453" />
+
+### Audio Evidence in Investigation
+- Examine the chain of custody
+- Establish the chain of custody
+- Request for the original
+- Retrieval methods
+
+
+
 - Pre-Examination Assesment
   - Always request the original recording or original device.
   - If unavailable, request details of recording device: make, model, serial number; date, time of copying; details of copying process.
@@ -191,8 +227,9 @@ Specific Scenarios for Authentication & Appropriate Techniques
 |File from social media but present in device|Mostly Auditory, waveform form, Spectrograph|Only continuity possible|
 
 
+## Video Forensic
 
-
+[Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
 
 
 
