@@ -12,3 +12,19 @@ Information Obtain from Audio
 - Religion
 - Physical & Emotional State
 - Identity of the Speaker
+Distinctiveness in voice
+- it refers to the unique characteristics that make a voice recognizable and identifiable.
+<p align="center"><img src="img/Elements_of_Vocal_Style.jpeg" height="400" width="800"></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
