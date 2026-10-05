@@ -17,7 +17,7 @@
     - [Critical Listening](#Critical-Listening)
     - [Visual Inspection](#Visual-Inspection)
     - [Analyzing Metadata](#Analyzing-Metadata)
-  -[Audio Evidence in Investigation](#Audio-Evidence-in-Investigation)
+  - [Audio Evidence in Investigation](#Audio-Evidence-in-Investigation)
 - [Video Forensic](#video-forensic)
 ---
 
