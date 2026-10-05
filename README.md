@@ -20,6 +20,8 @@
   - [Audio Examination Tools](#audio-examination-tools)
   - [Common facing Forensic Audio Cases](#Common-facing-Forensic-Audio-Cases)
 - [Video Forensic](#video-forensic)
+- [Image Forensic](#Image-Forensic)
+- [Text Forensic](#Text-Forensic)
 ---
 
 # Audio Forensic: vid[1.1](https://youtu.be/QsopUPy5nvs?si=ENvUMMDLWUopGU4E),[1.2](https://youtu.be/iz-xPlradnU?si=io7LjWE4k-zUJWZb),[1.3](https://youtu.be/Ljn2A6MfCW4?si=r0SHfx9AvWPoOUxw),[1.4](https://youtu.be/K2hyRz9IYQs?si=MuSwezlE-qoiSKIz),[1.5](https://youtu.be/3VTfU0LTUy4?si=1YC7wIvn6-WlVwQr); [vid2](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO)
@@ -231,7 +233,25 @@ Specific Scenarios for Authentication & Appropriate Techniques
 [Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
 
 
+## Image Forensic
 
+Tools: Exif Metadata
+
+### Image Editing Methods
+- Compression
+- Enhancing
+- Re-touching
+- Panoramas
+- Inpainting
+- Morphing
+- Copy-Paste
+- Copy-Move
+
+
+
+
+
+## Text Forensic
 
 
 
