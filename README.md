@@ -1,5 +1,5 @@
 # Multimedia Forenisc
-- in multimedia forensic covers `Audio`, `Video`, `Image`, `Text`.
+- in multimedia forensic covers `Audio`, `Video`, `Image`, `Text` Forensic.
 
 ## 📑 Table of Contents
 
