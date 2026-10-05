@@ -1,21 +1,11 @@
 # Multimedia Forenisc
 - in multimedia forensic covers `Audio`, `Video`, `Image`, `Text`.
 
-### When & Where forensic Audio is important?
-- Kidnapping for ransom
-- Anonymous calls, threatening calls
-- Obscene calls
-- Drug peddling
-- Sharing of vital information across the border
-- Bribery
-- Match fixing .... etc
-
 ## 📑 Table of Contents
 
 - [Audio Forensic](#audio-forensic)
   - [Mechanism of Voice Generation](#mechanism-of-voice-generation)
   - [Production of Speech](#production-of-speech)
-  - [Audio Examination Tools](#audio-examination-tools)
   - [Challenge in Audio Processing](#challenge-in-audio-processing)
   - [Analysing Audio as a Investigator](#analysing-audio-as-a-investigator)
     - [Authentication](#audio-authentication)
@@ -27,6 +17,8 @@
   - [Audio Evidence in Investigation Laboratory](#Audio-Evidence-in-Investigation-Laboratory)
   - [Speaker Recognition](#speaker-identification/recognition)
   - [Method of Speaker Identification](#methods-of-speaker-identification)
+  - [Audio Examination Tools](#audio-examination-tools)
+  - [Common facing Forensic Audio Cases](#Common-facing-Forensic-Audio-Cases)
 - [Video Forensic](#video-forensic)
 ---
 
@@ -69,18 +61,6 @@ Why person to person different in voice ?
 
 
 
-
-
-
-### Audio Examination Tools
-- Audio High-End Professional System
-- Digitization Tools
-  - Professional Audio System
-- Pre analysis tools
-  - Audacity, Adobe Audition, Praat, Hash Calc, Sonic Visualizer etc.
-- Analysis Software
-  - Computerized speech Lab, Multispeech etc.
-  - Semi Automatic SPID
 
 ### Challenges in Audio Processing
 - `Noise`: Unwanted sound makes extraction and analysis harder.
@@ -173,23 +153,26 @@ Problems in Forensic speaker examination
   - Text Independent Speaker Identification System (SPID)
   - Language Independent Speaker Identification System (LISIS)
 
+### Audio Examination Tools
+- Audio High-End Professional System
+- Digitization Tools
+  - Professional Audio System
+- Pre analysis tools
+  - Audacity, Adobe Audition, Praat, Hash Calc, Sonic Visualizer etc.
+- Analysis Software
+  - Computerized speech Lab, Multispeech etc.
+  - Semi Automatic SPID
 
+### Common facing Forensic Audio Cases
+- Kidnapping for ransom
+- Anonymous calls, threatening calls
+- Obscene calls
+- Drug peddling
+- Sharing of vital information across the border
+- Bribery
+- Match fixing .... etc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Visual Inspection Method
 `Waveform Analysis`
 - Visual comparison to spot discontinuities, sharp cuts, or faces that don’t match up.
 - Difficult to detect if edits are made with technical precision (phase-aligned cutting).
