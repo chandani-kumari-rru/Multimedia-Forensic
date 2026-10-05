@@ -19,10 +19,10 @@ Place of Articulation
 |1. Exo-labial, 2. Endo-labial, 3. Dental, 4. Alveolar, 5. Post-alveolar, 6. Pre-palatal, 7. Palatal, 8. Velar, 9. Uvular, 10. Pharyngeal, 11. Glottal, 12. Epiglottal, 13. Radical, 14. Postero-dorsal, 15. Antero-dorsal, 16. Laminal, 17. Apical, 18. Sub-apical|<img width="626" height="783" alt="image" src="https://github.com/user-attachments/assets/3e64776a-3a4e-4f50-a149-a8a6d39a775c" />|
 
 Why animal can’t produce speech
-- Except Human being, any other animals can’t produce speech because they don’t have co-articulation system
+- because they don’t have `co-articulation system`
 
 Why person to person different in voice ?
-- As  vocal tracks are differ in shape, size and length and the tension of the vocal folds, the voice production is also different to person to person
+- As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
 
 
 
