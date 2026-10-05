@@ -4,11 +4,13 @@
 
 - [Audio Forensic](#audio-forensic)
   - [Mechanism of Voice Generation](#mechanism-of-voice-generation)
-  - [](#network-forensic-tools)
-  - [Mobile Forensic Tools](#mobile-forensic-tools)
-  - [Incident Response](#incident-response)
-  - [Forensic Workflow](#forensics-workflow)
-  - [Audio Authentication](#audio-authentication)
+  - [Production of Speech](#production-of-speech)
+  - [Speaker Recognition](#speaker-recognition)
+  - [Method of Speaker Identification](#methods-of-speaker-identification)
+  - [Audio Examination Tools](#audio-examination-tools)
+  - [Challenge in Audio Processing](#challenge-in-audio-processing)
+  - [Analysing Audio as a Investigator](#analysing-audio-as-a-investigator)
+    - [Audio Authentication](#audio-authentication)
 - [Video Forensic](#video-forensic)
 ---
 
@@ -25,14 +27,14 @@
 |<img width="1046" height="411" alt="image" src="https://github.com/user-attachments/assets/3930ebe7-3806-4a48-9b69-f00f3e674b65" />|<img width="1046" height="447" alt="image" src="https://github.com/user-attachments/assets/9ed51748-9c0a-4692-b0d5-398f9710665c" />|
 
 
-# Mechanism of Voice Generation
+### Mechanism of Voice Generation
 <img width="838" height="341" alt="image" src="https://github.com/user-attachments/assets/d047bf53-f3e2-4478-ade9-a4397f5dd99a" />
 
 | SEPEAKER | LISTENER |  
 |---|---|  
 | `Production of vibrational energy` by `articulation` after brain instructs to perform | `Eardrums` convert this vibrational energy into signals that travel along nerves to the brain, which `interprets` them as `voices`, `music`, `noise`, etc. |
 
-Production of Speech
+### Production of Speech
 <p align="center"><img width="696" height="445" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" /></p>
 - The basic responsible function for production of speech are: `Generation of air pressure`, `regulation of vibration`, and `control of resonators`.
 - Larynx sometimes called `voice box` is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
@@ -49,10 +51,8 @@ Why person to person different in voice ?
 - As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
 <p align="center"><img width="603" height="377" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" /></p>
 
-Speaker Identification
+### Speaker Recognition
 <p align="center"><img src="img/SpeakerIdentification.png"></p>
-
-Speaker Recognition
 - The process of automatically recognizing who is speaking on the basis of individual’s speech signals information.
 - It is divided into two categories:
   - `Speaker Identification`: The task of determining an unknown speaker’s identity. (Speaker identification determines which registered speaker provides a given utterance from amongst a set of known speakers.)
@@ -90,7 +90,7 @@ Problems in Forensic speaker examination
 - Mode of Recording: Telephone, Cellular phone, Tape recorder, ....etc
 > Noise ARE THE ENEMY OF THE SPEECH SAMPLE!
 
-Methods for Speaker Identification
+### Methods for Speaker Identification
 - Auditory/Aural examination Method
 - Spectrographic visual analysis method via
   - Computerized Speech Laboratory (CSL)
@@ -99,7 +99,7 @@ Methods for Speaker Identification
   - Text Independent Speaker Identification System (SPID)
   - Language Independent Speaker Identification System (LISIS)
 
-Audio Examination Tools
+### Audio Examination Tools
 - Audio High-End Professional System
 - Digitization Tools
   - Professional Audio System
@@ -109,11 +109,19 @@ Audio Examination Tools
   - Computerized speech Lab, Multispeech etc.
   - Semi Automatic SPID
 
-Challenges in Audio Processing
+### Challenges in Audio Processing
 - `Noise`: Unwanted sound makes extraction and analysis harder.
 - `Aliasing & Quantization Errors`: Bad sampling/poor bit depth reduces fidelity.
 - `Loss of Information`: Compression and downsampling can discard important details.
 - `Subjectivity in Loudness/Pitch Perception`: Variability in human listeners means technical measurements don't always match perception.
+
+### Analysing Audio as a Investigator
+- Authenticity
+- Enhancement
+- Interpretation
+- Critical Listening
+- Visual Inspection
+- Analyzing Metadata
 
 ### Audio Authentication
 - Pre-Examination Assesment
