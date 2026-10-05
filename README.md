@@ -1,5 +1,17 @@
-## Audio Forensic: [vid1](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO), vid2
 [Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
+
+# Audio Forensic: [vid1](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO), vid2
+- Sound can be visualized in waveform. waveform can be seen with tools like Audacity.
+<img width="1789" height="796" alt="image" src="https://github.com/user-attachments/assets/95f1c386-ed0a-4366-8965-170afccd0d0e" /> 
+
+- Parameter of Audio Signals: Frequency, Amplitude, Phase, Intensity, pitch, Loudness, etc
+- 2 types of Audio Signals: Analog & Digital
+<img width="1699" height="852" alt="image" src="https://github.com/user-attachments/assets/88168404-a009-43aa-992a-cbe1b9ae1886" />
+
+| ADC | DAC |
+|---|---|
+|<img width="1046" height="411" alt="image" src="https://github.com/user-attachments/assets/3930ebe7-3806-4a48-9b69-f00f3e674b65" />|<img width="1046" height="447" alt="image" src="https://github.com/user-attachments/assets/9ed51748-9c0a-4692-b0d5-398f9710665c" />|
+
 
 # Mechanism of Voice Generation
 <img width="838" height="541" alt="image" src="https://github.com/user-attachments/assets/d047bf53-f3e2-4478-ade9-a4397f5dd99a" />
@@ -84,6 +96,35 @@ Audio Examination Tools
 - Analysis Software
   - Computerized speech Lab, Multispeech etc.
   - Semi Automatic SPID
+
+Challenges in Audio Processing
+- `Noise`: Unwanted sound makes extraction and analysis harder.
+- `Aliasing & Quantization Errors`: Bad sampling/poor bit depth reduces fidelity.
+- `Loss of Information`: Compression and downsampling can discard important details.
+- `Subjectivity in Loudness/Pitch Perception`: Variability in human listeners means technical measurements don't always match perception.
+
+Audio Authentication
+- Pre-Examination Assesment
+  - Always request the original recording or original device.
+  - If unavailable, request details of recording device: make, model, serial number; date, time of copying; details of copying process.
+  - For telephone recordings, request Call Detail Records (CDR) for data verification like length of the recording, time, date and etc.
+  - Maintain and check Chain Of Custody Documents (COD).
+- Laboratory Examination
+  - Judge Source: Direct or Telephonic Recording ?? 
+
+| Factor | Telephonic Recording | Direct Recording | 
+|---|---|---|
+|Sampling Rate|8000 Hz|23000 Hz or more|
+|Background Noise|Low|High|
+|Hex|||
+
+
+
+
+
+
+
+<img width="1369" height="1006" alt="image" src="https://github.com/user-attachments/assets/c964587d-ffbd-41a2-a85b-f6156151df97" />
 
 
 
