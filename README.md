@@ -47,9 +47,6 @@ What's Possibilities in Speaker Identification?
 - `Open set identification`: the task of identifying a known speaker within the unknown database.
   - Possibility that speaker is not among the speakers known to the system
 
-What's Process of Speaker Identification ?
-<img width="373" height="93" alt="image" src="https://github.com/user-attachments/assets/b3bbbd9d-924b-49df-989b-a75661cb7996" />
-
 Where forensic Audio is important?
 - Kidnapping for ransom
 - Anonymous calls, threatening calls
