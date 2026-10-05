@@ -119,45 +119,45 @@ Audio Authentication
 |Metadata/Hex|[md5](https://md5file.com/calculator)||
 <img width="1369" height="1006" alt="image" src="https://github.com/user-attachments/assets/c964587d-ffbd-41a2-a85b-f6156151df97" />
 
-Waveform Analysis
+`Waveform Analysis`
 - Visual comparison to spot discontinuities, sharp cuts, or faces that don’t match up.
 - Difficult to detect if edits are made with technical precision (phase-aligned cutting).
 - Human vs. synthesized/AI voice detection:
   - Human speech naturally exhibits variation; synthesized or programmatic voice segments show near-identical waveforms repeatedly.
 <img width="1019" height="874" alt="image" src="https://github.com/user-attachments/assets/bf1eddff-c843-44b1-96e7-f6e0af07b3ce" />
 
-Spectrographical Analysis
+`Spectrographical Analysis`
 - Visualizes frequency content over time.
 - Look for abrupt frequency changes or repeated patterns
 - Sudden start/stop bands suggest edits or synthetic content
 <img width="1158" height="828" alt="image" src="https://github.com/user-attachments/assets/0b6ba19f-e3db-4962-97db-d3f3c8b5c889" />
 
-Spectrogram Analysis
+`Spectrogram Analysis`
 <img width="1576" height="744" alt="image" src="https://github.com/user-attachments/assets/199516ad-faa0-418d-9a84-cd88b125cf45" />
 
-DC Shift Analysis
+`DC Shift Analysis`
 - Measures whether the center line of the waveform is offset from zero.
 - Large DC offset = improper recording or editing
 <img width="1776" height="587" alt="image" src="https://github.com/user-attachments/assets/2df5d887-5855-4c80-b75b-362c6b6c32a2" />
 
-Statistical Parameters
+`Statistical Parameters`
 - Skewness, Kurtosis: indicate amplitude distribution shape
 - SNR (Signal-to-Noise Ratio): higher = clearer audio
 
-Silence/Zero Discontinuity Detection
+`Silence/Zero Discontinuity Detection`
 - Checks for unnatural silences or zero blocks.
 - Natural speech pauses differ from hard cuts or inserted silences
 
-LPC (Linear Predictive Coding) Discontinuity
+`LPC (Linear Predictive Coding) Discontinuity`
 - Analyzes prediction changes over time.
 - Discontinuities = possible splicing
 - 'No discontinuity found' = likely original audio
 
-ENF (Electric Network Frequency) Variation
+`ENF (Electric Network Frequency) Variation`
 - Checks continuity of 50Hz power line hum.
 - Absence or sudden change may suggest manipulation
 
-Sampling Frequency Detection
+`Sampling Frequency Detection`
 - Confirms audio sampling rate (e.g., 44.1kHz).
 - Mismatch may indicate resampling or re-encoding
 <img width="1588" height="625" alt="image" src="https://github.com/user-attachments/assets/0dd854f5-7120-4ff4-85ed-323c3be114fb" />
