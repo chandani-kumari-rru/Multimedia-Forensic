@@ -6,12 +6,12 @@
 
 | SEPEAKER | LISTENER |  
 |---|---|  
-| Production of vibrational energy by articulation after brain instructs to perform | Eardrums convert this vibrational energy into signals that travel along nerves to the brain, which interprets them as voices, music, noise, etc. |
+| `Production of vibrational energy` by `articulation` after brain instructs to perform | `Eardrums` convert this vibrational energy into signals that travel along nerves to the brain, which `interprets` them as `voices`, `music`, `noise`, etc. |
 
 Production of Speech
 <img width="696" height="745" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" />
-- The basic responsible function for production of speech are: Generation of air pressure, regulation of vibration, and control of resonators.
-- Larynx sometimes called voice box is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
+- The basic responsible function for production of speech are: `Generation of air pressure`, `regulation of vibration`, and `control of resonators`.
+- Larynx sometimes called `voice box` is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
 
 Place of Articulation
 | | |  
