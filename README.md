@@ -47,7 +47,10 @@ What's Possibilities in Speaker Identification?
 - `Open set identification`: the task of identifying a known speaker within the unknown database.
   - Possibility that speaker is not among the speakers known to the system
 
-Where forensic Audio is important ?
+What's Process of Speaker Identification ?
+<img width="373" height="93" alt="image" src="https://github.com/user-attachments/assets/b3bbbd9d-924b-49df-989b-a75661cb7996" />
+
+Where forensic Audio is important?
 - Kidnapping for ransom
 - Anonymous calls, threatening calls
 - Obscene calls
@@ -60,7 +63,7 @@ Problems in Forensic speaker examination
 - Recorded Samples
   - Noisy (SNR 5-6db or less)
   - Distorted/Damped & short duration
-  - Non-contenporary
+  - Non-contemporary
   - Disguised
   - Different texts
 - Mode of Recording: Telephone, Cellular phone, Tape recorder, ....etc
@@ -72,8 +75,18 @@ Methods for Speaker Identification
   - Computerized Speech Laboratory (CSL)
   - Multi-Speech
 - Automatic Speaker identification System via
-  - Text Idependent Speaker Identification System (SPID)
-  - Language Idependent Speaker Identification System (LISIS)
+  - Text Independent Speaker Identification System (SPID)
+  - Language Independent Speaker Identification System (LISIS)
+
+Audio Examination Tools
+- Audio High-End Professional System
+- Digitization Tools
+  - Professional Audio System
+- Pre analysis tools
+  - Audacity, Adobe Audition, Cool Edit etc.
+- Analysis Software
+  - Computerized speech Lab, Multispeech etc.
+  - Semi Automatic SPID
 
 
 
