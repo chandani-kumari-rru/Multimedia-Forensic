@@ -1,7 +1,7 @@
 [Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
 
 # Audio Forensic: [vid1](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO), vid2
-- Sound can be visualized in waveform. waveform can be seen with tools like Audacity.
+- Sound can be visualized in waveform. waveform can be seen with tools like `Audacity`.
 <img width="1789" height="796" alt="image" src="img/waveform.png" /> 
 
 - Parameter of Audio Signals: Frequency, Amplitude, Phase, Intensity, pitch, Loudness, etc
