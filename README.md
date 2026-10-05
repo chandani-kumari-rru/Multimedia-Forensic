@@ -26,6 +26,56 @@ Why person to person different in voice ?
 <img width="603" height="577" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" />
 
 Speaker Identification
+<p align="center"><img src="img/SpeakerIdentification.png"></p>
+
+Speaker Recognition
+- The process of automatically recognizing who is speaking on the basis of individual’s speech signals information.
+- It is divided into two categories:
+  - `Speaker Identification`: The task of determining an unknown speaker’s identity. (Speaker identification determines which registered speaker provides a given utterance from amongst a set of known speakers.)
+  - `Speaker Verification`: With certain identity the voice is used to verify (Speaker verification accepts or rejects the identity claim of a speaker - is the speaker the person they say they are? )
+> In forensic applications, it is suggested to first perform a speaker identification process to create a list of "best matches" and then perform a series of verification processes to determine a conclusive match
+
+Why Speaker Identification ?
+- Speaker Identification is essential for several criminal offences, such as making hoax calls to the police, ambulance or fire brigade, making threatening or harassing telephone calls, blackmail or extortion demands, or taking part in criminal conspiracies such as those involving the importation, trafficking or manufacture of illegal drugs etc.
+
+What's Possibilities in Speaker Identification?
+- Determine the speaker identity
+- Selection b/w a set of known voices
+- The user doesn't claim an identity
+- `closed set identification`: the task of identifying an unidentified speaker within a known database.
+  - Assume that all speakers are known to the system
+- `Open set identification`: the task of identifying a known speaker within the unknown database.
+  - Possibility that speaker is not among the speakers known to the system
+
+Where forensic Audio is important ?
+- Kidnapping for ransom
+- Anonymous calls, threatening calls
+- Obscene calls
+- Drug peddling
+- Sharing of vital information across the border
+- Bribery
+- Match fixing .... etc
+
+Problems in Forensic speaker examination
+- Recorded Samples
+  - Noisy (SNR 5-6db or less)
+  - Distorted/Damped & short duration
+  - Non-contenporary
+  - Disguised
+  - Different texts
+- Mode of Recording: Telephone, Cellular phone, Tape recorder, ....etc
+> Noise ARE THE ENEMY OF THE SPEECH SAMPLE!
+
+Methods for Speaker Identification
+- Auditory/Aural examination Method
+- Spectrographic visual analysis method via
+  - Computerized Speech Laboratory (CSL)
+  - Multi-Speech
+- Automatic Speaker identification System via
+  - Text Idependent Speaker Identification System (SPID)
+  - Language Idependent Speaker Identification System (LISIS)
+
+
 
 
 
