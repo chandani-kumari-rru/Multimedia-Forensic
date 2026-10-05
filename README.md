@@ -1,7 +1,40 @@
-<img width="2862" height="115" alt="image" src="https://github.com/user-attachments/assets/7f17d88d-bae9-448c-89b1-f9b2df52b413" /># Multimedia-Forensic
-
 ## Audio Forensic: [vid1](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO), vid2
 [Check Fake/Real News](https://toolbox.google.com/factcheck/explorer)
+
+# Mechanism of Voice Generation
+<img width="838" height="541" alt="image" src="https://github.com/user-attachments/assets/d047bf53-f3e2-4478-ade9-a4397f5dd99a" />
+
+| SEPEAKER | LISTENER |  
+|---|---|  
+| Production of vibrational energy by articulation after brain instructs to perform | Eardrums convert this vibrational energy into signals that travel along nerves to the brain, which interprets them as voices, music, noise, etc. |
+
+Production of Speech
+<img width="696" height="745" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" />
+- The basic responsible function for production of speech are: Generation of air pressure, regulation of vibration, and control of resonators.
+- Larynx sometimes called voice box is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
+
+Place of Articulation
+| | |  
+|---|---| 
+|1. Exo-labial, 2. Endo-labial, 3. Dental, 4. Alveolar, 5. Post-alveolar, 6. Pre-palatal, 7. Palatal, 8. Velar, 9. Uvular, 10. Pharyngeal, 11. Glottal, 12. Epiglottal, 13. Radical, 14. Postero-dorsal, 15. Antero-dorsal, 16. Laminal, 17. Apical, 18. Sub-apical|<img width="626" height="783" alt="image" src="https://github.com/user-attachments/assets/3e64776a-3a4e-4f50-a149-a8a6d39a775c" />|
+
+Why animal can’t produce speech
+- Except Human being, any other animals can’t produce speech because they don’t have co-articulation system
+
+Why person to person different in voice ?
+- As  vocal tracks are differ in shape, size and length and the tension of the vocal folds, the voice production is also different to person to person
+
+
+
+
+
+
+
+
+
+
+
+
 
 Information Obtain from Audio
 - Message Spoken
@@ -17,8 +50,7 @@ Distinctiveness in voice
 <p align="center"><img src="img/Elements_of_Vocal_Style.jpeg" height="400" width="800"></p>
 
 
-Why person to person different in voice ?
-- As  vocal tracks are differ in shape, size and length and the tension of the vocal folds, the voice production is also different to person to person
+
 <img width="603" height="577" alt="image" src="https://github.com/user-attachments/assets/fa7f5752-c6eb-4ce2-8e0a-f914bcd31c1a" />
 
 
