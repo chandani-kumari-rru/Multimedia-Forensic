@@ -21,7 +21,7 @@
 | `Production of vibrational energy` by `articulation` after brain instructs to perform | `Eardrums` convert this vibrational energy into signals that travel along nerves to the brain, which `interprets` them as `voices`, `music`, `noise`, etc. |
 
 Production of Speech
-<img width="696" height="445" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" />
+<p align="center"><img width="696" height="445" alt="image" src="https://github.com/user-attachments/assets/0ba76e42-fa72-4be7-948b-7ebd0414878a" /></p>
 - The basic responsible function for production of speech are: `Generation of air pressure`, `regulation of vibration`, and `control of resonators`.
 - Larynx sometimes called `voice box` is the most important  organ among Lung, Vocal code, pharynx, Tongue, Teeth & Lip etc. Tongue is also the valuable articulatory organ.
 
@@ -35,7 +35,7 @@ Why animal can’t produce speech
 
 Why person to person different in voice ?
 - As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
-<img width="603" height="377" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" />
+<p align="center"><img width="603" height="377" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" /></p>
 
 Speaker Identification
 <p align="center"><img src="img/SpeakerIdentification.png"></p>
