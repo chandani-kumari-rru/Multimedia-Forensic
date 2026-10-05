@@ -283,16 +283,49 @@ Digital Signature using Hashing Function
 
 ### Image Manipulation Technique
 - The methods for extracting image-related features can be divided into four categories:
-  - `Pixel-based`: To examine pixel-level correlations from a particular type of tampering.
-    - Duplicate regions detection
-    - Resampling detection
+  - `Pixel-based`
   - `Camera-based`
   - `Physical-based`
   - `Format-based`
 <img width="718" height="393" alt="image" src="https://github.com/user-attachments/assets/3c6339c6-d5c2-49bd-9c51-233ae1a63f05" />
 
+Pixel based Method
+- To examine pixel-level correlations from a particular type of tampering.
+  - Duplicate regions detection
+  - Resampling detection
+- `Copy-Move Manipulation`
+  - Algorithms have been created to identify cloned regions in images.
+  <img width="816" height="517" alt="image" src="https://github.com/user-attachments/assets/caf40acb-c1d2-45d9-8318-c243ec4f6e03" />
 
+  - DCT (Discrete Cosine Transformation)
+    - in copy-move forgery, the copied region may be rotated and/or scaled to fit the scene better. it is used in DCT.
+      <img width="777" height="385" alt="image" src="https://github.com/user-attachments/assets/d251cf62-7ff5-4cf6-a53a-26ac66ad4d28" />
 
+  - PCA (Principle Component Analysis)
+      <img width="1227" height="252" alt="image" src="https://github.com/user-attachments/assets/240d573e-e2f3-49bb-82b5-57f79eb8e79f" />
+
+  - SIFT (Scale-Invariant Feature Transform)
+    <img width="1035" height="613" alt="image" src="https://github.com/user-attachments/assets/690ac4d1-e6b0-43bc-97e0-7a72507fecd5" />
+- `Image Splicing`:
+  - a common technique in photographic manipulation involves digitally merging multiple images to create a single composite.
+  - if splicing is performed, it will disrupt higher-order statistics, indicating signs of tampering.
+    <img width="605" height="330" alt="image" src="https://github.com/user-attachments/assets/d7984073-9a18-41af-9e32-9fe48f635a34" />
+
+  - an example of image splicing (A) and (B) the genuine images (C) the resulted.
+- `Resampling`:
+  - To create a composite, it is often necessary to resize, rotate or stretch parts of an image.
+  - resampling introduces distinct periodic correlations b/w neighboring pixels.
+  - this specific type of correlation can be easily identified.
+    <img width="625" height="802" alt="image" src="https://github.com/user-attachments/assets/4e7b5b78-5c4f-469e-9edb-8c87c9152de2" />
+
+    - Bilinear interpolation
+    - Bayer Pattern
+  - a tampered image often exhibits discrepacies in second-order differences along the horizontal direction.
+    <img width="775" height="490" alt="image" src="https://github.com/user-attachments/assets/80895af5-01ae-4412-8b10-9d7aa8a9af82" />
+
+### Image Analysis
+- Multilevel wavelet decomposition consists of the following: (a) single level components specification, (b) two-level components specification, (c) discrete wavelet transform (DWT) single level, and (d) DWT two-level decomposition. LH-vertical; HL-horizontal; HH-diagonal detail.
+<img width="433" height="465" alt="image" src="https://github.com/user-attachments/assets/f1a26677-b432-43c5-881a-7a28dc1b372f" />
 
 
 
