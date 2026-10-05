@@ -371,7 +371,21 @@ Features Derived from Camera
 - Sensor pattern noise
   - pixel-to-pixel variations when the sensor array is not exposed to light.
 
+### Lens Radial Distortion
+- Radial lens distortion correction using cascaded one-parameter division model
+  - Corrected results of ours and the results using the method in [1]: Images in the first column are source images. The middle column are rectified results using the method in [1]. The images depicted in the last column are our automatically corrected results.
+<img width="696" height="615" alt="image" src="https://github.com/user-attachments/assets/1218a5ee-398e-4faa-ab5c-be7105aaa7a0" />
+- Background of Lens Radial Distortion
+<img width="1222" height="492" alt="image" src="https://github.com/user-attachments/assets/470876ad-b8a5-4c43-88f2-6b33b84ebad4" />
+- Analysis of Lens Radial Distortion at Different Camera
+<img width="567" height="272" alt="image" src="https://github.com/user-attachments/assets/e8683966-693a-40ee-b2b4-cd6357be4697" />
 
+<img width="1263" height="841" alt="image" src="https://github.com/user-attachments/assets/bdd075aa-732d-452e-bedd-dd16d1e794d2" />
+
+<img width="1368" height="848" alt="image" src="https://github.com/user-attachments/assets/334e1c9c-3465-4b35-a649-b24bbb74c3e1" />
+
+- Behaviour of lens radial distortion parameter k1 across the image for various cameras at different zoom levels.
+<img width="688" height="782" alt="image" src="https://github.com/user-attachments/assets/d3cc8ef6-a3e0-4e1f-8fa9-43d991db76e7" />
 
 
 
