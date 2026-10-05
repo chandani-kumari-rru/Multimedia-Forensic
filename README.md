@@ -2,11 +2,11 @@
 
 # Audio Forensic: [vid1](https://youtu.be/qQhB5uDQQCU?si=Q8PHxLQMLOVsj9xO), vid2
 - Sound can be visualized in waveform. waveform can be seen with tools like Audacity.
-<img width="1789" height="796" alt="image" src="https://github.com/user-attachments/assets/95f1c386-ed0a-4366-8965-170afccd0d0e" /> 
+<img width="1789" height="796" alt="image" src="img/waveform.png" /> 
 
 - Parameter of Audio Signals: Frequency, Amplitude, Phase, Intensity, pitch, Loudness, etc
 - 2 types of Audio Signals: Analog & Digital
-<img width="1699" height="852" alt="image" src="https://github.com/user-attachments/assets/88168404-a009-43aa-992a-cbe1b9ae1886" />
+<img width="1699" height="852" alt="image" src="img/waveforms.png" />
 
 | ADC | DAC |
 |---|---|
