@@ -387,6 +387,16 @@ Features Derived from Camera
 - Behaviour of lens radial distortion parameter k1 across the image for various cameras at different zoom levels.
 <img width="688" height="782" alt="image" src="https://github.com/user-attachments/assets/d3cc8ef6-a3e0-4e1f-8fa9-43d991db76e7" />
 
+### Sensor Defect Noise
+<img width="710" height="190" alt="image" src="https://github.com/user-attachments/assets/3dc13965-c214-427c-8bd2-7ef16a893c1e" />
+
+- Sensor noise consists of two primary components:
+  - Fixed Pattern Noise (FPN) refers to
+    - Variations b/w pixels when in low-light conditions.
+    - Added noise that affects the image.
+  - Photo-Response Non-Uniformity (PRNU) is
+    - the primary source of pattern noise.
+    - Variability in pixel response to light, resulting in multiplicative noise.
 
 
 
