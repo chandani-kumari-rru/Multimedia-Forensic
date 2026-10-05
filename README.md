@@ -115,7 +115,7 @@ Challenges in Audio Processing
 - `Loss of Information`: Compression and downsampling can discard important details.
 - `Subjectivity in Loudness/Pitch Perception`: Variability in human listeners means technical measurements don't always match perception.
 
-Audio Authentication
+### Audio Authentication
 - Pre-Examination Assesment
   - Always request the original recording or original device.
   - If unavailable, request details of recording device: make, model, serial number; date, time of copying; details of copying process.
