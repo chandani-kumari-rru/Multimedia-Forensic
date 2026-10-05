@@ -247,6 +247,64 @@ Tools: Exif Metadata
 - Copy-Paste
 - Copy-Move
 
+### Image Foregery
+- Aim: Fantasy/Fiction
+- They fabricate an image to deceive the recipient into believing it's authentic, allowing them to secure payment and personal benefit.
+- They produce an image intended to trick the recipient into believing it's genuine, enabling them to gain payment and fame.
+- Three types of forgery can be distinguished:
+  - An image created using graphic design software.
+  - An image where the content has been altered
+  - An image where the context has been altered
+### Verification of Image Authenticity
+- Image authentication involves maintaining the integrity of an image and verifying its original content.
+- It is commonly used to establish and confirm the copyright ownership of the image.
+- There are generally two main techniques.
+  - Watermarking
+  - Digital Signature
+### How to Authenticate an Image
+- Visual Inspection
+- File Analysis
+  - File Format & Structures
+  - Metadata (EXIF)
+  - Compression parameters (Quantization Tables)
+- Global Analysis
+  - Pixel & compressed data statistics
+- Local Analysis
+  - Finding inconsistencies of pixel statistics across the image
+
+### Method of Image Authentication
+<img width="892" height="467" alt="image" src="https://github.com/user-attachments/assets/f12c829e-0858-4ae9-a37b-711b628f8365" />
+
+Watermark
+<img width="1296" height="452" alt="image" src="https://github.com/user-attachments/assets/8a9637ea-1093-48af-8c21-cee397da419d" />
+
+Digital Signature using Hashing Function
+<img width="901" height="410" alt="image" src="https://github.com/user-attachments/assets/40568301-f2f4-4f0b-954f-856ea14c0232" />
+
+### Image Manipulation Technique
+- The methods for extracting image-related features can be divided into four categories:
+  - `Pixel-based`: To examine pixel-level correlations from a particular type of tampering.
+    - Duplicate regions detection
+    - Resampling detection
+  - `Camera-based`
+  - `Physical-based`
+  - `Format-based`
+<img width="718" height="393" alt="image" src="https://github.com/user-attachments/assets/3c6339c6-d5c2-49bd-9c51-233ae1a63f05" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
