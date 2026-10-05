@@ -177,23 +177,6 @@ Specific Scenarios for Authentication & Appropriate Techniques
 
 
 
-Distinctiveness in voice
-- it refers to the unique characteristics that make a voice recognizable and identifiable.
-<p align="center"><img src="img/Elements_of_Vocal_Style.jpeg" height="400" width="800"></p>
-
-
-
-<img width="603" height="577" alt="image" src="https://github.com/user-attachments/assets/fa7f5752-c6eb-4ce2-8e0a-f914bcd31c1a" />
-
-
-
-
-
-
-
-
-
-
 
 
 
