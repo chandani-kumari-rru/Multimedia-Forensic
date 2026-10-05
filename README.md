@@ -398,10 +398,47 @@ Features Derived from Camera
     - the primary source of pattern noise.
     - Variability in pixel response to light, resulting in multiplicative noise.
 
+Photo Response Non-Uniform (PRNU) Sound
+- The PRNU of the source camera can be regarded as the device's unique identifier, similar to a human fingerprint.
+- PRNU analysis is most commonly employed to determine the source of a digital image.
+- The PRNU pattern can also reveal if a digital image has been altered.
+<img width="1897" height="507" alt="image" src="https://github.com/user-attachments/assets/0ef81e5d-8d26-459c-9288-8ff06bf7aa00" />
 
+Sensor Anomaly: FPN
+- Fixed Pattern Noise (FPN) refers to the variations between pixels when the sensor is in darkness and not receiving any light.
+- In many digital cameras, this variation is corrected by subtracting a dark frame (mask) from the captured image.
+<img width="1042" height="298" alt="image" src="https://github.com/user-attachments/assets/94ea77f2-8173-406f-8b9e-36aef4af4207" />
 
+Sensor Defect: PRNU
+- A digital camera usually contains a 2D grid of millions of CCDs, with each CCD dedicated to capturing data for one individual pixel.
+- A CCD is often likened to a bucket that gathers rain (photons) until it fills to a specific level, representing the pixel value.
+- In an ideal situation, when even light illuminates a camera sensor, every pixel should produce the same output value.
+- In practice, slight differences in cell size and the materials used for the substrate lead to minor variations in output values.
+<img width="1172" height="277" alt="image" src="https://github.com/user-attachments/assets/0c87b923-93a4-4946-b399-c6f4608b8f12" />
 
+### Illumination Inconsistences
+- The amount of light striking a surface is proportional to the angle between the surface normal and the direction of the light source.
+- By knowing the 3D surface normals, the direction of the light source can be estimated.
+- This method relies on intensity gradients across the surface of an object.
+- The gradient distribution can reveal the light sources in the image.
+- Illumination inconsistencies can be used for revealing traces of digital tampering.
+<img width="947" height="720" alt="image" src="https://github.com/user-attachments/assets/f46b7158-863d-4bcb-94c1-f336c7100ab5" />
 
+### Format-based Method
+- As JPEG is the most widely used image format
+  - The technique for detecting tampering addresses the JPEG Lossy compression s
+  - The distinct characteristics of lossy compression can be leveraged for forensic analysis scheme.
+  - The JPEG image encoding (compression) process involves three fundamental steps.
+  - Discrete cosine transform (DCT): An image is initially divided into 8x8 blocks, and each block is transformed into the frequency domain using a 2D DCT.
+  - Quantization: The DCT coefficients are divided by a quantization table and then rounded to the nearest integer.
+  - Entropy coding: Lossless entropy coding of the quantized DCT coefficients (e.g., Huffman coding).
+
+### Error Level Analysis
+- ELA highlights differences in the JPEG compression rate.
+- It helps to detect regions within the image that have been compressed at different levels, which might indicate editing or manipulation
+- Normally, a JPEG image should have a uniform compression level, as errors are spread evenly across the image.
+- ELA works by calculating the average differences in the quantization tables of pixel blocks throughout the image, highlighting areas that deviate from the expected compression pattern.
+<img width="631" height="792" alt="image" src="https://github.com/user-attachments/assets/80cc5f7e-3d2e-427e-8d7d-7b6f3cc7d7a1" />
 
 
 
