@@ -1,13 +1,20 @@
 # Multimedia Forenisc
 - in multimedia forensic covers `Audio`, `Video`, `Image`, `Text`.
 
+### When & Where forensic Audio is important?
+- Kidnapping for ransom
+- Anonymous calls, threatening calls
+- Obscene calls
+- Drug peddling
+- Sharing of vital information across the border
+- Bribery
+- Match fixing .... etc
+
 ## 📑 Table of Contents
 
 - [Audio Forensic](#audio-forensic)
   - [Mechanism of Voice Generation](#mechanism-of-voice-generation)
   - [Production of Speech](#production-of-speech)
-  - [Speaker Recognition](#speaker-recognition)
-  - [Method of Speaker Identification](#methods-of-speaker-identification)
   - [Audio Examination Tools](#audio-examination-tools)
   - [Challenge in Audio Processing](#challenge-in-audio-processing)
   - [Analysing Audio as a Investigator](#analysing-audio-as-a-investigator)
@@ -17,7 +24,9 @@
     - [Critical Listening](#Critical-Listening)
     - [Visual Inspection](#Visual-Inspection)
     - [Analyzing Metadata](#Analyzing-Metadata)
-  - [Audio Evidence in Investigation](#Audio-Evidence-in-Investigation)
+  - [Audio Evidence in Investigation Laboratory](#Audio-Evidence-in-Investigation-Laboratory)
+  - [Speaker Recognition](#speaker-recognition/identification)
+  - [Method of Speaker Identification](#methods-of-speaker-identification)
 - [Video Forensic](#video-forensic)
 ---
 
@@ -58,53 +67,10 @@ Why person to person different in voice ?
 - As  `vocal tracks` are differ in `shape`, `size` and `length` and the tension of the vocal folds, the voice production is also different to person to person
 <p align="center"><img width="603" height="377" alt="image" src="https://github.com/user-attachments/assets/2b67f08b-f928-4a41-bb0c-93b82f15c97b" /></p>
 
-### Speaker Recognition
-<p align="center"><img src="img/SpeakerIdentification.png"></p>
-- The process of automatically recognizing who is speaking on the basis of individual’s speech signals information.
-- It is divided into two categories:
-  - `Speaker Identification`: The task of determining an unknown speaker’s identity. (Speaker identification determines which registered speaker provides a given utterance from amongst a set of known speakers.)
-  - `Speaker Verification`: With certain identity the voice is used to verify (Speaker verification accepts or rejects the identity claim of a speaker - is the speaker the person they say they are? )
-> In forensic applications, it is suggested to first perform a speaker identification process to create a list of "best matches" and then perform a series of verification processes to determine a conclusive match
 
-Why Speaker Identification ?
-- Speaker Identification is essential for several criminal offences, such as making hoax calls to the police, ambulance or fire brigade, making threatening or harassing telephone calls, blackmail or extortion demands, or taking part in criminal conspiracies such as those involving the importation, trafficking or manufacture of illegal drugs etc.
 
-What's Possibilities in Speaker Identification?
-- Determine the speaker identity
-- Selection b/w a set of known voices
-- The user doesn't claim an identity
-- `closed set identification`: the task of identifying an unidentified speaker within a known database.
-  - Assume that all speakers are known to the system
-- `Open set identification`: the task of identifying a known speaker within the unknown database.
-  - Possibility that speaker is not among the speakers known to the system
 
-Where forensic Audio is important?
-- Kidnapping for ransom
-- Anonymous calls, threatening calls
-- Obscene calls
-- Drug peddling
-- Sharing of vital information across the border
-- Bribery
-- Match fixing .... etc
 
-Problems in Forensic speaker examination
-- Recorded Samples
-  - Noisy (SNR 5-6db or less)
-  - Distorted/Damped & short duration
-  - Non-contemporary
-  - Disguised
-  - Different texts
-- Mode of Recording: Telephone, Cellular phone, Tape recorder, ....etc
-> Noise ARE THE ENEMY OF THE SPEECH SAMPLE!
-
-### Methods for Speaker Identification
-- Auditory/Aural examination Method
-- Spectrographic visual analysis method via
-  - Computerized Speech Laboratory (CSL)
-  - Multi-Speech
-- Automatic Speaker identification System via
-  - Text Independent Speaker Identification System (SPID)
-  - Language Independent Speaker Identification System (LISIS)
 
 ### Audio Examination Tools
 - Audio High-End Professional System
@@ -152,21 +118,14 @@ Problems in Forensic speaker examination
 - Digital audio recordings contain metadata which reveals information about how the recording was made and the type of equipment that created the recording.
 <img width="1466" height="417" alt="image" src="https://github.com/user-attachments/assets/1418c9bb-00e0-42d2-8d1d-b65e3f15b453" />
 
-### Audio Evidence in Investigation
-- Examine the chain of custody
-- Establish the chain of custody
-- Request for the original
-- Retrieval methods
-
-
-
+### Audio Evidence in Investigation Laboratory 
 - Pre-Examination Assesment
-  - Always request the original recording or original device.
-  - If unavailable, request details of recording device: make, model, serial number; date, time of copying; details of copying process.
-  - For telephone recordings, request Call Detail Records (CDR) for data verification like length of the recording, time, date and etc.
-  - Maintain and check Chain Of Custody Documents (COD).
+  - Always request the `original recording` or `original device`.
+    - If unavailable, request details of recording device: make, model, serial number; date, time of copying; details of copying process.
+  - For telephone recordings, request `Call Detail Records` (CDR) for data verification like length of the recording, time, date and etc.
+  - Maintain and check `Chain Of Custody` Documents (COD).
 - Laboratory Examination
-  - Judge Source: Direct or Telephonic Recording ?? 
+  - Judge Source i.e Direct or Telephonic Recording ?? 
 
 | Factor | Telephonic Recording | Direct Recording | 
 |---|---|---|
@@ -174,6 +133,62 @@ Problems in Forensic speaker examination
 |Background Noise|Low|High|
 |Metadata/Hex|[md5](https://md5file.com/calculator)||
 <img width="1369" height="506" alt="image" src="https://github.com/user-attachments/assets/c964587d-ffbd-41a2-a85b-f6156151df97" />
+
+### Speaker Identification/Recognition
+<p align="center"><img src="img/SpeakerIdentification.png"></p>
+- The process of automatically recognizing who is speaking on the basis of individual’s speech signals information.
+- It is divided into two categories:
+  - `Speaker Identification`: The task of determining an unknown speaker’s identity. (Speaker identification determines which registered speaker provides a given utterance from amongst a set of known speakers.)
+  - `Speaker Verification`: With certain identity the voice is used to verify (Speaker verification accepts or rejects the identity claim of a speaker - is the speaker the person they say they are? )
+> In forensic applications, it is suggested to first perform a speaker identification process to create a list of "best matches" and then perform a series of verification processes to determine a conclusive match
+
+Why Speaker Identification ?
+- Speaker Identification is essential for several criminal offences, such as making hoax calls to the police, ambulance or fire brigade, making threatening or harassing telephone calls, blackmail or extortion demands, or taking part in criminal conspiracies such as those involving the importation, trafficking or manufacture of illegal drugs etc.
+
+What's Possibilities in Speaker Identification?
+- Determine the speaker identity
+- Selection b/w a set of known voices
+- The user doesn't claim an identity
+- `closed set identification`: the task of identifying an unidentified speaker within a known database.
+  - Assume that all speakers are known to the system
+- `Open set identification`: the task of identifying a known speaker within the unknown database.
+  - Possibility that speaker is not among the speakers known to the system
+
+Problems in Forensic speaker examination
+- Recorded Samples
+  - Noisy (SNR 5-6db or less)
+  - Distorted/Damped & short duration
+  - Non-contemporary
+  - Disguised
+  - Different texts
+- Mode of Recording: Telephone, Cellular phone, Tape recorder, ....etc
+> Noise ARE THE ENEMY OF THE SPEECH SAMPLE!
+
+### Methods for Speaker Identification
+- Auditory/Aural examination Method
+- Spectrographic visual analysis method via
+  - Computerized Speech Laboratory (CSL)
+  - Multi-Speech
+- Automatic Speaker identification System via
+  - Text Independent Speaker Identification System (SPID)
+  - Language Independent Speaker Identification System (LISIS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `Waveform Analysis`
 - Visual comparison to spot discontinuities, sharp cuts, or faces that don’t match up.
