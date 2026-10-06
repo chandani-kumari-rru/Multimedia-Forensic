@@ -21,6 +21,7 @@
   - [Common facing Forensic Audio Cases](#Common-facing-Forensic-Audio-Cases)
 - [Video Forensic](#video-forensic)
 - [Image Forensic](#Image-Forensic)
+  - [Camera Ballistics](#Camera-Ballistics)
 - [Text Forensic](#Text-Forensic)
 ---
 
