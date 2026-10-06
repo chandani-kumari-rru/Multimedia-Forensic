@@ -21,7 +21,18 @@
   - [Common facing Forensic Audio Cases](#Common-facing-Forensic-Audio-Cases)
 - [Video Forensic](#video-forensic)
 - [Image Forensic](#Image-Forensic)
+  - [Method of Image Authentication](#Method-of-Image-Authentication)
+  - [Image Manipulation Technique](#Image-Manipulation-Technique)
+    - [Pixel-based](#Pixel-based)
+    - [Camera-based](#Camera-based)
+    - [Physical-based](#Physical-based)
+    - [Format-based](#Format-based)
   - [Camera Ballistics](#Camera-Ballistics)
+  - [Digital Camera Structure](#Digital-Camera-Structure)
+  - [Lens Radial Distortion](#Lens-Radial-Distortion)
+  - [Sensor Defect Noise](#Sensor-Defect-Noise)
+  - [Illumination Inconsistences](#Illumination-Inconsistences)
+  - [Error Level Analysis](#Error-Level-Analysis)
 - [Text Forensic](#Text-Forensic)
 ---
 
