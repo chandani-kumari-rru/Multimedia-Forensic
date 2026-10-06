@@ -23,10 +23,10 @@
 - [Image Forensic](#Image-Forensic)
   - [Method of Image Authentication](#Method-of-Image-Authentication)
   - [Image Manipulation Technique](#Image-Manipulation-Technique)
-    - [Pixel-based](#Pixel-based)
-    - [Camera-based](#Camera-based)
-    - [Physical-based](#Physical-based)
-    - [Format-based](#Format-based)
+    - [Pixel-based](#Pixel-based-method)
+    - [Camera-based](#Camera-based-method)
+    - [Physical-based](#Physical-based-method)
+    - [Format-based](#Format-based-method)
   - [Camera Ballistics](#Camera-Ballistics)
   - [Digital Camera Structure](#Digital-Camera-Structure)
   - [Lens Radial Distortion](#Lens-Radial-Distortion)
@@ -301,7 +301,7 @@ Digital Signature using Hashing Function
   - `Format-based`
 <img width="718" height="393" alt="image" src="https://github.com/user-attachments/assets/3c6339c6-d5c2-49bd-9c51-233ae1a63f05" />
 
-Pixel based Method
+### Pixel based Method
 - To examine pixel-level correlations from a particular type of tampering.
   - Duplicate regions detection
   - Resampling detection
